@@ -1,4 +1,5 @@
 {
+  "homepage": "https://leocode0.github.io/workshop_1",
   "scripts": {
     "start": "snowpack dev",
     "build": "snowpack build",
